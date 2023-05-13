@@ -19,3 +19,9 @@
 body {
   color: rgb(var(--foreground-rgb));
 }
+
+textarea{
+  resize: none;
+  height: 120px;
+  width: auto;
+}
